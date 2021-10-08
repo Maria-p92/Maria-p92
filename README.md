@@ -1,7 +1,7 @@
 👋 Hi, I’m Maria Parra
-👀 I’m interested in Interactive Design and Frontend
-🌱 I’m currently learning Javascript and React.
-💞️ I’m love to create animations
+👀 Currently working as interactive designer for a Design System team
+🌱 Constant learning, now learning to be a master in protoyping and Typescript
+💞️ I love to do videomapping performance.
 📫 You can have a look and contact me on my portfolio https://mariaparradesign.com/
 
 <!---
